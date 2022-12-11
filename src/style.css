@@ -1,0 +1,12 @@
+.App {
+    font-family: sans-serif;
+    /* text-align: center; */
+  }
+  
+  .header-nav,
+  .footer {
+    background: blueviolet;
+    color: azure;
+    padding: 10px;
+  }
+  
