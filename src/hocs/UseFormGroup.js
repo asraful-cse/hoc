@@ -1,7 +1,7 @@
 import React from "react";
 import { Form } from "react-bootstrap";
 
-function useFormGroup(InputComponent) {
+function useFormGroup() {
   return function ourFormGroup(
     value,
     setValue,

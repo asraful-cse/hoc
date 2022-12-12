@@ -8,6 +8,7 @@ const ContactPage = () => {
   const [phone, setPhone] = useState("");
   const [message, setMessage] = useState("");
   const formGroup = useFormGroup(null);
+  const formGroupb = useFormGroup(null);
 
   return (
     <div title="Contact Page">
